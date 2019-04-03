@@ -1188,44 +1188,9 @@ Hosts
 
 Software Configuration Structure
 
-
-
 Is used by
 
-
-
- 
-
 End User Device Configuration Structure
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
 
 
 10.	APPENDIX B: DETAILED CI TYPES (CI FAMILIES AND CLASSES) DEFINED WITHIN THE CMDB
@@ -1693,9 +1658,3 @@ Take Note:
 •	No document can be distributed for approval before the ratings, remarks and actions taken have been duly completed on the above RTS.
 •	The reviewers’ rating cannot be considered as approval.
 •	If an issue or dispute between the reviewers arises, the approval authority’s approval shall govern the issue or subject matter and overrule the ratings captured in the RTS.
-
-
-
-
-
-
